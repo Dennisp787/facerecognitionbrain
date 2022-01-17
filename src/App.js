@@ -118,7 +118,7 @@ class App extends Component{
     return (
       <div className="App">
         <Particles className='particles' 
-          params={particlesOption} />
+          options={particlesOption} />
         <Navigation isSignedIn={isSignedIn} onRouteChange={this.onRouteChange}/>
         { route === 'home' ?
         <div>
