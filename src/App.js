@@ -5,7 +5,7 @@ import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm'
 import Rank from './components/Rank/Rank';
 import FaceRecognition from './components/FaceRecogniton/FaceRecognition';
 import './App.css';
-import Particles from 'react-particles-js';
+import Particles from 'tsparticles';
 import Signin from './components/Signin/Signin';
 import Register from './components/Register/Register';
 
